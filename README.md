@@ -24,5 +24,5 @@ bb
 
 login  etudiant
 etudiant@etudiant.fr
-mots de passe etudiant@etudiant.fr
+mots de passe etudiant
 aa
