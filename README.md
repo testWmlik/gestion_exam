@@ -14,3 +14,15 @@ Après l'appuis sur une demande une formulaire contient les information d'étudi
 un lien qui se trouve dans la page login permette à l'etudiant de vérifier l'état de son demande
 
 Dans la période d'examens, l'étudiant accéder au système et connecté à son compte et Il trouve les listes d'examens
+
+importer la base de donné gestion_examen.sql
+
+login admin 
+admin@admin.com
+mots de passe admin
+bb
+
+login  etudiant
+etudiant@etudiant.fr
+mots de passe etudiant@etudiant.fr
+aa
